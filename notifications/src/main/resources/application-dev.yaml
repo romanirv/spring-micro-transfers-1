@@ -1,0 +1,13 @@
+server:
+  port: 8183
+
+spring:
+  application:
+    name: mt-notifications
+  kafka:
+    bootstrap-servers: localhost:9092
+
+app:
+  listening:
+    topic:
+      name: transfer-status
