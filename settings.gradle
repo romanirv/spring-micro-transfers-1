@@ -1,4 +1,4 @@
-rootProject.name = 'spring-micro-transfers-1'
+rootProject.name = 'spring-micro-transfers'
 include 'core-transfers'
 include 'limits'
-
+include 'notifications'
